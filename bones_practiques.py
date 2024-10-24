@@ -1,5 +1,4 @@
-#!/usr/bin/env phyton
-
+#!/usr/bin/env python"
 '''bones_practiques.py. Programa de Divisió
 Instiitut Icària
 Programació - 1r de Batxillerat - Curs 24/25
